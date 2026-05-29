@@ -1,0 +1,6 @@
+{
+  "name": "SAP Learners Hub",
+  "description": "Interactive learning modules, certification exams, community forums, peer messaging, document uploads, and Gemini AI-powered news forecasts for SAP learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
